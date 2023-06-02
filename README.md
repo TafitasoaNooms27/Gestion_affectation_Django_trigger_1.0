@@ -17,5 +17,4 @@
 >python manage.py migrate </br>
 >python manage.py runserver </br>
 
-from nelly walker
-BRANCK TEST KIAD
+from Deveen Tafitasoa
