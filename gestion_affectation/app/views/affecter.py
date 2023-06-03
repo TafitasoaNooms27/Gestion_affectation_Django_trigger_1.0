@@ -6,7 +6,7 @@ from django.db import connection
 # import datetime
 # cursor = connection.cursor()
 
-#========== LISTE DES AFFECTER =============#
+
 #========== LISTE DES AFFECTER =============#
 def affecters(response):
     employes =  Employe.objects.all()
